@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Hoang Dung   
+* Student Name: Nguyen Hoang Dung USTH ICT1
 * Student ID: 23BI14111
 
